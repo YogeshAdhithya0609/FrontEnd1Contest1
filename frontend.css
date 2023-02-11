@@ -1,0 +1,25 @@
+nav {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-left: 13px;
+    border: 1px solid black;
+
+    
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 5px 15px 5px;
+}
+img{
+    width: 375px;
+    height: 450px;;
+}
+
+.btn:hover{
+    background-color: aqua;
+}
+h1{
+    font-weight:normal ;
+}
